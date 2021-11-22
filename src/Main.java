@@ -40,7 +40,7 @@ public class Main {
             int tabuadaJS2 = scan.nextInt();
             
             System.out.println("Tabuada de " + tabuadaJS);      
-            System.out.println(tabuadaJS + " X " + tabuadaJS2 + " = " + (tabuadaJS * i));     
+            System.out.println(tabuadaJS + " X " + tabuadaJS2 + " = " + (tabuadaJS * tabuadaJS2));     
             i = i + 1;
         }  */
 
