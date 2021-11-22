@@ -27,5 +27,24 @@ public class Main {
             System.out.println(tabuadaJS + " X " + a + " = " + (tabuadaJS * i));     
             i = i + 1;
         }  
+
+
+       ///Teste isso 
+        //*int i = 1;
+        while (i <= 10) {
+            int a = 1;
+            System.out.println("Valor: ");
+            int tabuadaJS = scan.nextInt();
+         
+            System.out.println("Vezes?: ");
+            int tabuadaJS2 = scan.nextInt();
+            
+            System.out.println("Tabuada de " + tabuadaJS);      
+            System.out.println(tabuadaJS + " X " + tabuadaJS2 + " = " + (tabuadaJS * i));     
+            i = i + 1;
+        }  */
+
+
+
     }
 }
